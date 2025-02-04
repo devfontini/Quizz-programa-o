@@ -31,9 +31,3 @@ O quiz foi desenvolvido com um design minimalista e Sci-Fi, com efeitos de Glass
 - **Pergunta 7**: Selecione o atributo do input que define o seu tipo (Seleção)
 - **Pergunta 8**: Identifique a linguagem de programação representada pela imagem (Imagem)
 
-## Como Contribuir
-
-1. Fork este repositório.
-2. Crie um branch para a sua modificação (`git checkout -b minha-modificacao`).
-3. Faça suas alterações.
-4. Comite as muda
